@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <a href="https://recsys-engine.streamlit.app" target="_blank">
-    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
+  <a href="https://recsys-engine.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App">
   </a>
   <img src="https://img.shields.io/badge/ML-Recommendation%20Systems-green?style=for-the-badge" alt="ML">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
